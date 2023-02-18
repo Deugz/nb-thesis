@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: "Thesis"
-author: <strong>Vincent Deguin</strong> (with ❤️)
+author: Vincent Deguin
 logo: Docs/SVG_Files/OU_Logo.svg
 
 # Force re-execution of notebooks on each build.
@@ -12,6 +12,7 @@ execute:
 
 # Define the name of the latex output file for PDF builds
 latex:
+  latex_engine: pdflatex
   latex_documents:
     targetname: book.tex
 
@@ -35,8 +36,7 @@ html:
   extra_footer: |
   
     <img class="CC_licence" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg" alt="Licence CC BY NC SA 2"/>
-      
-  google_analytics_id       : G-CPYX9S0KDS  
+       
   home_page_in_navbar       : false
   baseurl                   : "https://deugz.github.io/nb-thesis/_build/html/"
   comments:

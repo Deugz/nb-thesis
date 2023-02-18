@@ -5,3 +5,11 @@ format: jb-book
 root: intro
 chapters:
 - file: Introduction/Introduction
+- file: Methods/Methods
+- file: Chapter1/Chapter1
+- file: Chapter2/Chapter2
+- file: Chapter3/Chapter3
+- file: Chapter4/Chapter4
+- file: Chapter5/Chapter5
+- file: Chapter6/Chapter6
+- file: Chapter7/Chapter7
