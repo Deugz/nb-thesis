@@ -4,6 +4,8 @@
 format: jb-book
 root: intro
 chapters:
+- file: Lists/equation
+- file: Preface/Preface
 - file: Introduction/Introduction
 - file: Methods/Methods
 - file: Chapter1/Chapter1
@@ -13,3 +15,4 @@ chapters:
 - file: Chapter5/Chapter5
 - file: Chapter6/Chapter6
 - file: Chapter7/Chapter7
+- file: Conclusion/Conclusion

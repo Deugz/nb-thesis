@@ -1,0 +1,39 @@
+\selectlanguage *{english}
+\contentsline {chapter}{\numberline {1}Online Thesis}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Introduction}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Methods}{5}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Chapter 1}{7}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Chapter 2}{9}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Chapter 3}{11}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Chapter 4}{13}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Chapter 5}{15}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Novel methodology for producing amorphous ice micro\sphinxhyphen {}particles \sphinxhyphen {} Proof of concept experiment}{17}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Overview and aim}{17}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Proof of concept experiment}{17}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Safety consideration}{18}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}Design and operation}{18}{subsection.9.2.2}%
+\contentsline {subsubsection}{Ethane liquefaction}{20}{subsubsection*.3}%
+\contentsline {subsubsection}{Water droplet production and introduction}{21}{subsubsection*.4}%
+\contentsline {subsubsection}{Particle recovery}{24}{subsubsection*.5}%
+\contentsline {section}{\numberline {9.3}Testing and preliminary results}{24}{section.9.3}%
+\contentsline {chapter}{\numberline {10}Novel methodology for producing amorphous ice micro\sphinxhyphen {}particles \sphinxhyphen {} 2nd Version}{27}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Overall Design}{27}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Targeted Design}{31}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}Temperature control and recording}{31}{subsection.10.2.1}%
+\contentsline {subsubsection}{Cooling}{31}{subsubsection*.6}%
+\contentsline {subsubsection}{Warming up and Temperature control}{32}{subsubsection*.7}%
+\contentsline {subsection}{\numberline {10.2.2}Water droplet production}{33}{subsection.10.2.2}%
+\contentsline {subsection}{\numberline {10.2.3}Sample recovery method}{33}{subsection.10.2.3}%
+\contentsline {subsubsection}{Sample storage}{34}{subsubsection*.8}%
+\contentsline {subsubsection}{ISIS cell filling}{34}{subsubsection*.9}%
+\contentsline {section}{\numberline {10.3}The cooking recipe to produce HGW µm ice particles}{34}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}Warm\sphinxhyphen {}up and Glove Box purging}{34}{subsection.10.3.1}%
+\contentsline {subsection}{\numberline {10.3.2}Reaction vessel cooling}{34}{subsection.10.3.2}%
+\contentsline {subsection}{\numberline {10.3.3}Ethane liquefaction}{36}{subsection.10.3.3}%
+\contentsline {subsection}{\numberline {10.3.4}Ethane Temperature control}{38}{subsection.10.3.4}%
+\contentsline {subsection}{\numberline {10.3.5}Water introduction}{38}{subsection.10.3.5}%
+\contentsline {subsection}{\numberline {10.3.6}Ice recovery}{38}{subsection.10.3.6}%
+\contentsline {subsubsection}{Sample storage}{38}{subsubsection*.10}%
+\contentsline {subsubsection}{ISIS cell}{38}{subsubsection*.11}%
+\contentsline {section}{\numberline {10.4}Discussion and evaluation}{39}{section.10.4}%
+\contentsline {chapter}{\numberline {11}Conclusion}{41}{chapter.11}%
